@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace Io.JoeMoceri.ImapEmailSample
+﻿namespace Io.JoeMoceri.ImapEmailSample
 {
     class Program
     {
